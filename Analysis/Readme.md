@@ -5,11 +5,11 @@ This folder contains the analysis scripts, organized code, and results from simu
 ## Folder Structure
 
 - **`Readme.md`**: Overview of the Analysis Folder and its contents.
-- **`Code`**: Contains Jupyter Notebook (.ipynb) files that execute simulation models and perform data analysis.
+- **`Code_Network`**: Contains Jupyter Notebook (.ipynb) files that execute simulation models and perform data analysis.
   - The notebook is organized by specific tasks, including:
     - Simulation Setup and Configuration
     - Execution of Dynamic Banking System Simulations
-- **`Results Folder`**: Stores all tables, figures, and visualizations generated from the simulations.
+- **`Results Folder`**: Stores all figures, and visualizations generated from the simulations.
   - **Figures**: Illustrations of key findings figures.
 
 
@@ -21,8 +21,8 @@ The simulations conducted within these notebooks address the following research 
 
 ## Usage
 
-1. **Run Simulations**: Open each notebook and execute the cells sequentially to replicate the simulations.
-2. **Explore Results**: Review the `Results` folder for visual summaries and tables of the key findings. Figures and tables are labeled based on the specific simulation scenario they represent.
+1. **Run Simulations**: Open the notebook and execute the cells sequentially to replicate the simulations.
+2. **Explore Results**: Review the `Results` folder for visual summaries of the key findings. Figures are labeled based on the specific simulation scenario they represent.
 
 ## Requirements
 
