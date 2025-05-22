@@ -17,6 +17,7 @@ This project explores a simulative extension of the original paper by Georg (201
 ## Repository Structure
 The project is organized as follows:
 - **`README.md`**: This file, providing an overview of the project.
+- **`Statement`**: This file provides an overview of each member's contribution.
 - **`Data Folder`**: Contains the dataset or a link to it. Includes data on bank portfolios, liquidity, and interbank networks.
 - **`Analysis Folder`**: Contains the code and scripts used to analyze the data.
   - **Code**: Jupyter Notebooks.
