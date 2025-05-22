@@ -9,7 +9,7 @@ This folder contains the analysis scripts, organized code, and results from simu
   - The notebook is organized by specific tasks, including:
     - Simulation Setup and Configuration
     - Execution of Dynamic Banking System Simulations
-- **`Results Folder`**: Stores all figures, and visualizations generated from the simulations.
+- **`Results Folder`**: Stores all figures and visualizations generated from the simulations.
   - **Figures**: Illustrations of key findings figures.
 
 
